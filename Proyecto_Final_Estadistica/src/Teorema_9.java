@@ -234,6 +234,7 @@ public class Teorema_9 extends javax.swing.JFrame {
         Total=Num1+Num2;
         
         txtTotal1.setText(String.valueOf(Total));
+        txtE2.setText(String.valueOf(Total));
     }//GEN-LAST:event_btnCalcularActionPerformed
 
     private void btnResultadoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnResultadoActionPerformed
